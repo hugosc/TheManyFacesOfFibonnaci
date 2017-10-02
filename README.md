@@ -1,4 +1,4 @@
 TheManyFacesOfFibonnaci
 =======================
 
-Just many implementations to calculate the fibonacci numbers in c++
+Different implementantions of the fibonacci numbers in python
